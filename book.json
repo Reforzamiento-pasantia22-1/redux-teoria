@@ -1,0 +1,19 @@
+{
+  "gitbook": "3.2.2",
+  "title": "Redux en Español",
+  "plugins": ["edit-link", "prism", "-highlight", "github", "anchorjs"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/sergiodxa/redux-in-spanish/tree/master",
+      "label": "Contribuye"
+    },
+    "github": {
+      "url": "https://github.com/sergiodxa/redux-in-spanish/"
+    },
+    "theme-default": {
+      "styles": {
+        "website": "build/gitbook.css"
+      }
+    }
+  }
+}
